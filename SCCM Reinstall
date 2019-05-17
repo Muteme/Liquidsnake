@@ -1,0 +1,1 @@
+C:\Windows\ccmsetup\ccmsetup.exe /BITSPriority:LOW /noservice /skipprereq:silverlight.exe /UsePKICert /Forceinstall SMSSITECODE=NAL SMSCACHESIZE=20480 RESETKEYINFORMATION=TRUE
